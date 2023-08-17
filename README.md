@@ -48,9 +48,9 @@ Check conda is installed and in your PATH
 
 Install the below libraries
 
-    pip install streamlit
-    pip install snowflake-connector-python
-    pip install snowflake-snowpark-python
+    conda install streamlit
+    conda install snowflake-connector-python
+    conda install snowflake-snowpark-python
 
   
 
